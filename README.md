@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt image](https://github.com/tehreemamir123/E_Commerce_app/blob/7b691fc9a5d59b93abdd957dbb01c1e8f6c5500e/lib/Screenshot%202025-07-13%20172926.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
